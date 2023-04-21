@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="054371be-0d2f-4bd6-a26f-af7fdcc772b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CA4_2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mymaven/.idea/mymaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageFactring/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/main/java/com/browser/FactoryBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/main/java/org/example/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/main/java/org/example/LoginUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/main/java/org/example/homePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/test/java/org/example/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pageObject/src/test/java/org/example/LoginPageUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/src/main/java/com/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teamMOD/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Oifin8mTvTVTJLWNjoj4J7HMN3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054371be-0d2f-4bd6-a26f-af7fdcc772b5" name="Changes" comment="" />
+      <created>1682048479753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682048479753</updated>
+    </task>
+    <servers />
+  </component>
+</project>
